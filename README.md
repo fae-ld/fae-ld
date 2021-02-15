@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C#,C++,Java, Unity
 - 💞️ I’m looking to collaborate on Mobile Development, Data Science, and Machine Learning
-- 📫 How to reach me ...
+- 📫 How to reach me https://fae-ld.github.io/profile/
 
 <!---
 fae-ld/fae-ld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
