@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fae-ld
-- 👀 I’m interested in programming
+- 👀 I’m interested in programming and problem solving
 - 🌱 I’m currently learning C#,C++,Java, Unity
 - 💞️ I’m looking to collaborate on Mobile Development, Data Science, and Machine Learning
 - 📫 How to reach me https://fae-ld.github.io/profile/
