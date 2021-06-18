@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @fae-ld
 - 👀 I’m interested in programming and problem solving
-- 🌱 I’m currently learning C#,C++,Java, Unity
-- 💞️ I’m looking to collaborate on Mobile Development, Data Science, and Machine Learning
-- 📫 How to reach me https://fae-ld.github.io/introduction/
+- 🌱 I’m currently learning C++ and Python
+- 💞️ I’m looking to collaborate on Competitive Programming and Data Science
+- 📫 How to reach me: Instagram ( @fairuztsn )
 
 <!---
 fae-ld/fae-ld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
