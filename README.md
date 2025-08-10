@@ -1,5 +1,5 @@
 ## Hi there 👋
-![brick by brick](https://tenor.com/bQTC2.gif)
+![brick by brick](https://media1.tenor.com/m/a7Zwk5BAuK0AAAAd/snow-fall.gif)
 <!--
 **fae-ld/fae-ld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
