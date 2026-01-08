@@ -1,4 +1,3 @@
-## Hi there 👋
 <!--
 ![brick by brick](https://media1.tenor.com/m/a7Zwk5BAuK0AAAAd/snow-fall.gif)
 -->
@@ -14,6 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on personal projects and exploring new ideas.  
-- 🌱 I’m currently learning Mathematics, AI/ML, and Software Engineering.  
-- 👯 I’m looking to collaborate on research, experiments, and projects involving AI/ML or applied mathematics.  
+ hiiiiiiiiiiiiiiiiii
